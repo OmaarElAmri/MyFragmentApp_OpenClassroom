@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFragmentApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="i_have_no_details_to_show_you">I have no details to show you...</string>
+    <string name="item_1">Item 1</string>
+    <string name="user">User</string>
+    <string name="lol">lol</string>
+</resources>

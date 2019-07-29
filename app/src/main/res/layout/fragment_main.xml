@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/fragment_main_button_happy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Happy Detail"
+        android:tag="10"/>
+
+    <Button
+        android:id="@+id/fragment_main_button_sad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Sad Detail"
+        android:tag="20"/>
+
+    <Button
+        android:id="@+id/fragment_main_button_horrible"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Horrible Detail"
+        android:tag="30"/>
+
+</LinearLayout>
